@@ -1,2 +1,2 @@
-!registration](.github/allure1.png)
+![registration](.github/allure1.png)
 ![authorization](.github/allure2.png)
